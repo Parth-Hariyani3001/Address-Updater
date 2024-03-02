@@ -13,9 +13,10 @@ The State Management is Carried out using useReducer for global state management
 2.status -> Used to define that current state of UI
 
 #Functionalities :
-1.Users can add address
-2.Users can edit them and the changes are reflected in real time
-3.Users can delete unnecessary addresses
+
+<li>1.Users can add address</li>
+<li>2.Users can edit them and the changes are reflected in real time</li>
+<li>3.Users can delete unnecessary addresses</li>
 
 #Strengths :
 1.UI is pretty straight forward to understand
